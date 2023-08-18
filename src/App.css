@@ -1,0 +1,16 @@
+body {
+  font-family: 'Arial', sans-serif;
+  overflow: hidden;
+}
+.custom-navbar {
+  background-color: #C5CAE9; 
+  margin: 0px 20px 0px 20px !important;
+  border-radius: 3px;
+}
+.para{
+  padding: 20px;
+}
+.row-content{
+  background-color:#EEEEEE;
+  border-radius: 5px;
+}
